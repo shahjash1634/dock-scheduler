@@ -1,13 +1,9 @@
 # Dock Scheduler
 
-**Live demo:** [dock-scheduler-yourname.vercel.app](https://dock-scheduler-yourname.vercel.app) — replace with your actual Vercel URL after deploying, and drop a screenshot of the Schedule tab right here.
+**Live demo:** [dock-scheduler-jash.vercel.app](https://dock-scheduler-ten.vercel.app) 
 
-<!--
-![Dock Scheduler screenshot](./docs/schedule-screenshot.png)
-To add one: open the live demo, click "Jump to sample data" on the Schedule
-tab so it isn't showing an empty grid, screenshot it, save it as
-docs/schedule-screenshot.png, and uncomment the line above.
--->
+<img width="1470" height="821" alt="image" src="https://github.com/user-attachments/assets/996814db-03bd-4299-b43c-15f75725216e" />
+
 
 A small scheduling tool for managing berth reservations at the Harborview
 Marine Research Center's waterfront, built as a take-home project from the
