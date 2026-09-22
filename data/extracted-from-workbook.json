@@ -1,0 +1,5546 @@
+[
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 1,
+    "start_day": 1,
+    "end_day": 31,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 2,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 2,
+    "start_day": 1,
+    "end_day": 16,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 2,
+    "start_day": 21,
+    "end_day": 28,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 2,
+    "start_day": 23,
+    "end_day": 28,
+    "occupant": "M/V Quiet Current"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 3,
+    "start_day": 16,
+    "end_day": 24,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 3,
+    "start_day": 1,
+    "end_day": 4,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 3,
+    "start_day": 11,
+    "end_day": 17,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 3,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "Barge Silver Voyager"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 3,
+    "start_day": 26,
+    "end_day": 26,
+    "occupant": "S/V Swift Wind"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2014,
+    "month": 3,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 3,
+    "start_day": 1,
+    "end_day": 14,
+    "occupant": "M/V Quiet Current"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 3,
+    "start_day": 15,
+    "end_day": 15,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 3,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 4,
+    "start_day": 28,
+    "end_day": 30,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 4,
+    "start_day": 17,
+    "end_day": 20,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 4,
+    "start_day": 3,
+    "end_day": 8,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 4,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "S/V Swift Wind"
+  },
+  {
+    "berth": "North Pier Face",
+    "berth_length_ft": 75,
+    "year": 2014,
+    "month": 4,
+    "start_day": 12,
+    "end_day": 15,
+    "occupant": "OSV Wild Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 4,
+    "start_day": 3,
+    "end_day": 13,
+    "occupant": "Barge Western Dory"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 4,
+    "start_day": 17,
+    "end_day": 19,
+    "occupant": "OSV Wild Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 4,
+    "start_day": 25,
+    "end_day": 29,
+    "occupant": "OSV Wild Star"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 4,
+    "start_day": 11,
+    "end_day": 13,
+    "occupant": "R/V Clear Fathom"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 4,
+    "start_day": 2,
+    "end_day": 2,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 4,
+    "start_day": 20,
+    "end_day": 20,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 5,
+    "start_day": 30,
+    "end_day": 31,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 5,
+    "start_day": 20,
+    "end_day": 22,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 5,
+    "start_day": 1,
+    "end_day": 11,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 5,
+    "start_day": 26,
+    "end_day": 28,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 5,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "M/V GREY COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 5,
+    "start_day": 27,
+    "end_day": 28,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 5,
+    "start_day": 18,
+    "end_day": 19,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 5,
+    "start_day": 15,
+    "end_day": 15,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 5,
+    "start_day": 18,
+    "end_day": 19,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 5,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 5,
+    "start_day": 11,
+    "end_day": 11,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 5,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 5,
+    "start_day": 16,
+    "end_day": 16,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 5,
+    "start_day": 20,
+    "end_day": 20,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 5,
+    "start_day": 26,
+    "end_day": 31,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 5,
+    "start_day": 12,
+    "end_day": 19,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 5,
+    "start_day": 2,
+    "end_day": 2,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 5,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 6,
+    "start_day": 16,
+    "end_day": 22,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 6,
+    "start_day": 2,
+    "end_day": 4,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 6,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "S/V Far Horizon"
+  },
+  {
+    "berth": "North Pier Face",
+    "berth_length_ft": 75,
+    "year": 2014,
+    "month": 6,
+    "start_day": 23,
+    "end_day": 23,
+    "occupant": "Bunker barge"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 6,
+    "start_day": 14,
+    "end_day": 20,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 6,
+    "start_day": 7,
+    "end_day": 9,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 6,
+    "start_day": 21,
+    "end_day": 30,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 6,
+    "start_day": 1,
+    "end_day": 3,
+    "occupant": "R/V CORAL TERN"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 11,
+    "end_day": 13,
+    "occupant": "S/V Golden Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 14,
+    "end_day": 15,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 18,
+    "end_day": 20,
+    "occupant": "S/V Golden Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 29,
+    "end_day": 30,
+    "occupant": "M/V Western Marlin"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V Iron Lantern"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 10,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 22,
+    "end_day": 22,
+    "occupant": "F/V Clear Compass"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 12,
+    "end_day": 16,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 1,
+    "end_day": 10,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 20,
+    "end_day": 27,
+    "occupant": "S/V Clear Kestrel"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 6,
+    "start_day": 18,
+    "end_day": 18,
+    "occupant": "F/V Western Gannet"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 7,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "R/V Coral Harbor"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 7,
+    "start_day": 25,
+    "end_day": 25,
+    "occupant": "S/V Swift Tide"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 7,
+    "start_day": 3,
+    "end_day": 7,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 7,
+    "start_day": 18,
+    "end_day": 19,
+    "occupant": "S/Y Silver Meridian"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 7,
+    "start_day": 28,
+    "end_day": 31,
+    "occupant": "OSV Wild Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 7,
+    "start_day": 15,
+    "end_day": 15,
+    "occupant": "R/V Coral Harbor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 24,
+    "end_day": 25,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 10,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 14,
+    "end_day": 14,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 16,
+    "end_day": 16,
+    "occupant": "M/V Silver Marlin"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 17,
+    "end_day": 17,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 22,
+    "end_day": 22,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 31,
+    "end_day": 31,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 15,
+    "end_day": 20,
+    "occupant": "M/V Green Ledge"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 6,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 24,
+    "end_day": 27,
+    "occupant": "S/Y Wild Petrel"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 7,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "M/Y Deep Compass"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 8,
+    "start_day": 3,
+    "end_day": 19,
+    "occupant": "R/V Iron Cove"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 8,
+    "start_day": 24,
+    "end_day": 28,
+    "occupant": "Tug Golden Sound"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 8,
+    "start_day": 18,
+    "end_day": 20,
+    "occupant": "OSV Wild Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 8,
+    "start_day": 2,
+    "end_day": 5,
+    "occupant": "OSV Wild Star"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 7,
+    "end_day": 7,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 17,
+    "end_day": 17,
+    "occupant": "M/Y Deep Compass"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 22,
+    "end_day": 22,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 20,
+    "end_day": 21,
+    "occupant": "M/Y Wild Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 6,
+    "end_day": 8,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "M/V Bright Cove"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "S/V Deep Tide"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 22,
+    "end_day": 22,
+    "occupant": "M/V Amber Dory"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 8,
+    "start_day": 23,
+    "end_day": 23,
+    "occupant": "M/V Northern Current"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 9,
+    "start_day": 21,
+    "end_day": 25,
+    "occupant": "M/V Long Tern"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 9,
+    "start_day": 18,
+    "end_day": 18,
+    "occupant": "M/V Grey Compass"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 9,
+    "start_day": 29,
+    "end_day": 29,
+    "occupant": "M/V Grey Compass"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 9,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "Tug Golden Sound"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 9,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2014,
+    "month": 9,
+    "start_day": 8,
+    "end_day": 26,
+    "occupant": "OSV Clear Lantern"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 9,
+    "start_day": 25,
+    "end_day": 27,
+    "occupant": "R/V Blue Star"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 9,
+    "start_day": 6,
+    "end_day": 6,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 9,
+    "start_day": 7,
+    "end_day": 7,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 9,
+    "start_day": 9,
+    "end_day": 9,
+    "occupant": "Barge Grey Sound"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 9,
+    "start_day": 21,
+    "end_day": 21,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 9,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 10,
+    "start_day": 4,
+    "end_day": 17,
+    "occupant": "Barge Grey Sound"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 10,
+    "start_day": 21,
+    "end_day": 21,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 10,
+    "start_day": 22,
+    "end_day": 22,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 10,
+    "start_day": 7,
+    "end_day": 7,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2014,
+    "month": 10,
+    "start_day": 14,
+    "end_day": 14,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 11,
+    "start_day": 22,
+    "end_day": 30,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 11,
+    "start_day": 10,
+    "end_day": 13,
+    "occupant": "Barge Blue Wind"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 11,
+    "start_day": 1,
+    "end_day": 9,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 11,
+    "start_day": 16,
+    "end_day": 17,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 12,
+    "start_day": 1,
+    "end_day": 12,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2014,
+    "month": 12,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2014,
+    "month": 12,
+    "start_day": 19,
+    "end_day": 28,
+    "occupant": "Tug Golden Sound"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 1,
+    "start_day": 3,
+    "end_day": 4,
+    "occupant": "Tug Golden Sound"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 3,
+    "start_day": 30,
+    "end_day": 31,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 3,
+    "start_day": 14,
+    "end_day": 14,
+    "occupant": "Barge Silver Voyager"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 3,
+    "start_day": 18,
+    "end_day": 18,
+    "occupant": "F/V Bright Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 3,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 4,
+    "start_day": 3,
+    "end_day": 8,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 4,
+    "start_day": 23,
+    "end_day": 25,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 4,
+    "start_day": 2,
+    "end_day": 4,
+    "occupant": "OSV Golden Ketch"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 4,
+    "start_day": 25,
+    "end_day": 29,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 4,
+    "start_day": 23,
+    "end_day": 23,
+    "occupant": "OSV Golden Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 4,
+    "start_day": 29,
+    "end_day": 30,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 4,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 4,
+    "start_day": 16,
+    "end_day": 16,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 5,
+    "start_day": 24,
+    "end_day": 27,
+    "occupant": "M/V Blue Lantern"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 5,
+    "start_day": 8,
+    "end_day": 12,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 5,
+    "start_day": 16,
+    "end_day": 16,
+    "occupant": "M/V GREY COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 5,
+    "start_day": 7,
+    "end_day": 7,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 5,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "M/V Blue Lantern"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 14,
+    "end_day": 15,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 1,
+    "end_day": 1,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 7,
+    "end_day": 7,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 8,
+    "end_day": 8,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 11,
+    "end_day": 11,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 16,
+    "end_day": 16,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 21,
+    "end_day": 21,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 23,
+    "end_day": 23,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "R/V Bright Current"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 4,
+    "end_day": 13,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 27,
+    "end_day": 29,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 5,
+    "start_day": 21,
+    "end_day": 24,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 6,
+    "start_day": 20,
+    "end_day": 29,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 6,
+    "start_day": 6,
+    "end_day": 9,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 6,
+    "start_day": 3,
+    "end_day": 5,
+    "occupant": "Tug GOLDEN SOUND"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 6,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "R/V Bright Current"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 6,
+    "start_day": 23,
+    "end_day": 24,
+    "occupant": "OSV Golden Ketch"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 6,
+    "start_day": 6,
+    "end_day": 6,
+    "occupant": "R/V NORTHERN WIND"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 6,
+    "start_day": 28,
+    "end_day": 28,
+    "occupant": "F/V High Skua"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 6,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "F/V High Skua"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 26,
+    "end_day": 27,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 15,
+    "end_day": 16,
+    "occupant": "S/V Golden Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 9,
+    "end_day": 10,
+    "occupant": "S/V Golden Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "S/V Golden Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 20,
+    "end_day": 22,
+    "occupant": "S/V High Meridian"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 13,
+    "end_day": 14,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 29,
+    "end_day": 29,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 26,
+    "end_day": 30,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 1,
+    "end_day": 15,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 6,
+    "start_day": 18,
+    "end_day": 22,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 11,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 7,
+    "start_day": 12,
+    "end_day": 31,
+    "occupant": "Barge Quiet Wind"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 7,
+    "start_day": 21,
+    "end_day": 23,
+    "occupant": "R/V Bright Current"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 7,
+    "start_day": 9,
+    "end_day": 10,
+    "occupant": "Tug Bright Petrel"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 7,
+    "start_day": 26,
+    "end_day": 28,
+    "occupant": "R/V Bright Current"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 7,
+    "start_day": 20,
+    "end_day": 20,
+    "occupant": "M/V Quiet Petrel"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 7,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "M/Y High Sextant"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 7,
+    "start_day": 29,
+    "end_day": 29,
+    "occupant": "F/V CLEAR KETCH"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 7,
+    "start_day": 17,
+    "end_day": 19,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 7,
+    "start_day": 9,
+    "end_day": 12,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 7,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 7,
+    "start_day": 25,
+    "end_day": 25,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 7,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "OSV Green Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 7,
+    "start_day": 22,
+    "end_day": 26,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 7,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "F/V Silver Reef"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 8,
+    "start_day": 1,
+    "end_day": 11,
+    "occupant": "Tug Northern Beacon"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 8,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "Road race - access limited"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 8,
+    "start_day": 20,
+    "end_day": 20,
+    "occupant": "Tug Northern Beacon"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 8,
+    "start_day": 4,
+    "end_day": 6,
+    "occupant": "R/V Bright Current"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 8,
+    "start_day": 12,
+    "end_day": 14,
+    "occupant": "OSV Golden Ketch"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 8,
+    "start_day": 2,
+    "end_day": 2,
+    "occupant": "M/Y High Sextant"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 8,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "F/V High Skua"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 8,
+    "start_day": 26,
+    "end_day": 26,
+    "occupant": "M/V Coral Beacon"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 8,
+    "start_day": 24,
+    "end_day": 25,
+    "occupant": "S/V High Meridian"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 8,
+    "start_day": 8,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 8,
+    "start_day": 14,
+    "end_day": 16,
+    "occupant": "S/V High Meridian"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 8,
+    "start_day": 2,
+    "end_day": 2,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 8,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 8,
+    "start_day": 17,
+    "end_day": 17,
+    "occupant": "M/V Bright Cove"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 8,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "M/V Deep Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 8,
+    "start_day": 31,
+    "end_day": 31,
+    "occupant": "M/V Coral Horizon"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 8,
+    "start_day": 14,
+    "end_day": 25,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 8,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "M/Y Wild Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 9,
+    "start_day": 1,
+    "end_day": 3,
+    "occupant": "Tug Coral Reef"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 9,
+    "start_day": 21,
+    "end_day": 30,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 9,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "Tug Northern Beacon"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 9,
+    "start_day": 19,
+    "end_day": 27,
+    "occupant": "M/V Coral Lantern"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 9,
+    "start_day": 14,
+    "end_day": 16,
+    "occupant": "S/V Golden Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 9,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 9,
+    "start_day": 9,
+    "end_day": 9,
+    "occupant": "M/V Deep Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 9,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 9,
+    "start_day": 20,
+    "end_day": 20,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 9,
+    "start_day": 25,
+    "end_day": 25,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 9,
+    "start_day": 28,
+    "end_day": 28,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 9,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 9,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 10,
+    "start_day": 19,
+    "end_day": 26,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 10,
+    "start_day": 4,
+    "end_day": 14,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 10,
+    "start_day": 14,
+    "end_day": 20,
+    "occupant": "M/V Coral Lantern"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 10,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V Grey Wind"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 10,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "R/V Salt Current"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 10,
+    "start_day": 6,
+    "end_day": 6,
+    "occupant": "R/V Grey Wind"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 10,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "F/V Western Meridian"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 10,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "Tug Silver Tern"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 10,
+    "start_day": 14,
+    "end_day": 14,
+    "occupant": "Barge Grey Dory"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 10,
+    "start_day": 20,
+    "end_day": 20,
+    "occupant": "F/V Western Meridian"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 10,
+    "start_day": 25,
+    "end_day": 25,
+    "occupant": "M/Y Golden Kestrel"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 10,
+    "start_day": 27,
+    "end_day": 27,
+    "occupant": "Barge Grey Dory"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 10,
+    "start_day": 4,
+    "end_day": 6,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 10,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 10,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 10,
+    "start_day": 14,
+    "end_day": 14,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 10,
+    "start_day": 20,
+    "end_day": 20,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 10,
+    "start_day": 25,
+    "end_day": 25,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 10,
+    "start_day": 27,
+    "end_day": 27,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 10,
+    "start_day": 3,
+    "end_day": 5,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 11,
+    "start_day": 4,
+    "end_day": 17,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 11,
+    "start_day": 19,
+    "end_day": 30,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 11,
+    "start_day": 8,
+    "end_day": 9,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 11,
+    "start_day": 6,
+    "end_day": 6,
+    "occupant": "F/V Far Sound"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2015,
+    "month": 11,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "OSV Bright Ledge"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 11,
+    "start_day": 11,
+    "end_day": 11,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2015,
+    "month": 11,
+    "start_day": 2,
+    "end_day": 16,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2015,
+    "month": 12,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 12,
+    "start_day": 4,
+    "end_day": 5,
+    "occupant": "S/V Salt Beacon"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2015,
+    "month": 12,
+    "start_day": 29,
+    "end_day": 29,
+    "occupant": "R/V Quiet Strand"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 1,
+    "start_day": 19,
+    "end_day": 26,
+    "occupant": "F/V Green Reef"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 2,
+    "start_day": 20,
+    "end_day": 22,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 2,
+    "start_day": 7,
+    "end_day": 9,
+    "occupant": "OS/V Golden Osprey"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 2,
+    "start_day": 24,
+    "end_day": 27,
+    "occupant": "M/V Wild Compass"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 2,
+    "start_day": 10,
+    "end_day": 18,
+    "occupant": "F/V Western Gannet"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 2,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "M/V Golden Drift"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 3,
+    "start_day": 24,
+    "end_day": 31,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 3,
+    "start_day": 13,
+    "end_day": 17,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 3,
+    "start_day": 1,
+    "end_day": 3,
+    "occupant": "M/V Golden Drift"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 3,
+    "start_day": 18,
+    "end_day": 18,
+    "occupant": "Tug Far Meridian"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 3,
+    "start_day": 1,
+    "end_day": 8,
+    "occupant": "M/V Wild Compass"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 3,
+    "start_day": 18,
+    "end_day": 19,
+    "occupant": "F/V Silver Lantern"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 3,
+    "start_day": 13,
+    "end_day": 15,
+    "occupant": "F/V Silver Lantern"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 3,
+    "start_day": 23,
+    "end_day": 23,
+    "occupant": "Barge Silver Voyager"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 4,
+    "start_day": 19,
+    "end_day": 20,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 4,
+    "start_day": 13,
+    "end_day": 15,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 4,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier Face",
+    "berth_length_ft": 75,
+    "year": 2016,
+    "month": 4,
+    "start_day": 18,
+    "end_day": 19,
+    "occupant": "Tug Amber Lantern"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 4,
+    "start_day": 25,
+    "end_day": 30,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 4,
+    "start_day": 5,
+    "end_day": 6,
+    "occupant": "R/V BLUE COVE"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 4,
+    "start_day": 24,
+    "end_day": 25,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 4,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 4,
+    "start_day": 18,
+    "end_day": 18,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 4,
+    "start_day": 21,
+    "end_day": 21,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 4,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 5,
+    "start_day": 6,
+    "end_day": 9,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 5,
+    "start_day": 25,
+    "end_day": 31,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 5,
+    "start_day": 20,
+    "end_day": 21,
+    "occupant": "Departs 0600"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 5,
+    "start_day": 10,
+    "end_day": 17,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 5,
+    "start_day": 7,
+    "end_day": 8,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 5,
+    "start_day": 1,
+    "end_day": 3,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 5,
+    "start_day": 22,
+    "end_day": 22,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 5,
+    "start_day": 29,
+    "end_day": 29,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 5,
+    "start_day": 31,
+    "end_day": 31,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 5,
+    "start_day": 28,
+    "end_day": 31,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 5,
+    "start_day": 1,
+    "end_day": 21,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 6,
+    "start_day": 14,
+    "end_day": 19,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 6,
+    "start_day": 4,
+    "end_day": 5,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 6,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "S/V High Meridian"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 6,
+    "start_day": 23,
+    "end_day": 24,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 6,
+    "start_day": 2,
+    "end_day": 4,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 6,
+    "start_day": 20,
+    "end_day": 22,
+    "occupant": "S/V High Meridian"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 6,
+    "start_day": 9,
+    "end_day": 9,
+    "occupant": "Tug Amber Horizon"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 6,
+    "start_day": 10,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 6,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 6,
+    "start_day": 16,
+    "end_day": 16,
+    "occupant": "M/V Bright Cove"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 6,
+    "start_day": 1,
+    "end_day": 4,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 6,
+    "start_day": 8,
+    "end_day": 8,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 6,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 7,
+    "start_day": 30,
+    "end_day": 31,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 7,
+    "start_day": 4,
+    "end_day": 7,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 7,
+    "start_day": 27,
+    "end_day": 29,
+    "occupant": "R/V Green Star"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier Face",
+    "berth_length_ft": 75,
+    "year": 2016,
+    "month": 7,
+    "start_day": 31,
+    "end_day": 31,
+    "occupant": "R/V Green Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 7,
+    "occupant": "R/V Green Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 7,
+    "start_day": 8,
+    "end_day": 12,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 7,
+    "start_day": 18,
+    "end_day": 22,
+    "occupant": "R/V Bright Current"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 7,
+    "start_day": 31,
+    "end_day": 31,
+    "occupant": "F/V Bright Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 16,
+    "end_day": 18,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 11,
+    "end_day": 12,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 25,
+    "end_day": 26,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 30,
+    "end_day": 31,
+    "occupant": "R/V Green Star"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 2,
+    "end_day": 3,
+    "occupant": "M/Y Wild Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 9,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "F/V Swift Horizon"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 14,
+    "end_day": 14,
+    "occupant": "S/V Bright Sextant"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 29,
+    "end_day": 29,
+    "occupant": "R/V Blue Kestrel"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 24,
+    "end_day": 31,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 9,
+    "end_day": 14,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 5,
+    "end_day": 8,
+    "occupant": "S/V High Meridian"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 1,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 8,
+    "start_day": 1,
+    "end_day": 4,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 8,
+    "start_day": 21,
+    "end_day": 21,
+    "occupant": "R/V Blue Anchor"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 8,
+    "start_day": 22,
+    "end_day": 22,
+    "occupant": "S/Y Far Harbor"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 8,
+    "start_day": 25,
+    "end_day": 25,
+    "occupant": "R/V Blue Anchor"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 8,
+    "start_day": 26,
+    "end_day": 26,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier Face",
+    "berth_length_ft": 75,
+    "year": 2016,
+    "month": 8,
+    "start_day": 1,
+    "end_day": 3,
+    "occupant": "R/V Green Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 8,
+    "start_day": 15,
+    "end_day": 20,
+    "occupant": "Barge Clear Ledge"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 8,
+    "start_day": 8,
+    "end_day": 11,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 8,
+    "start_day": 12,
+    "end_day": 13,
+    "occupant": "R/V Green Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 8,
+    "start_day": 27,
+    "end_day": 30,
+    "occupant": "R/V Green Star"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 8,
+    "start_day": 5,
+    "end_day": 6,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 8,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 8,
+    "start_day": 8,
+    "end_day": 8,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 8,
+    "start_day": 10,
+    "end_day": 10,
+    "occupant": "M/Y Wild Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 8,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 8,
+    "start_day": 12,
+    "end_day": 19,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 8,
+    "start_day": 3,
+    "end_day": 4,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 9,
+    "start_day": 5,
+    "end_day": 11,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 9,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 9,
+    "start_day": 2,
+    "end_day": 2,
+    "occupant": "R/V Blue Anchor"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 9,
+    "start_day": 10,
+    "end_day": 10,
+    "occupant": "R/V Blue Anchor"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 9,
+    "start_day": 29,
+    "end_day": 29,
+    "occupant": "F/V Swift Fathom"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 9,
+    "start_day": 18,
+    "end_day": 20,
+    "occupant": "R/V Blue Star"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 9,
+    "start_day": 13,
+    "end_day": 14,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 9,
+    "start_day": 15,
+    "end_day": 17,
+    "occupant": "R/V Blue Star"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 9,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 9,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "R/V Blue Star"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 9,
+    "start_day": 7,
+    "end_day": 7,
+    "occupant": "S/V Salt Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 9,
+    "start_day": 21,
+    "end_day": 21,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 9,
+    "start_day": 22,
+    "end_day": 22,
+    "occupant": "R/V Blue Star"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 9,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 9,
+    "start_day": 4,
+    "end_day": 26,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 10,
+    "start_day": 10,
+    "end_day": 15,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 10,
+    "start_day": 8,
+    "end_day": 9,
+    "occupant": "R/V Blue Anchor"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 10,
+    "start_day": 1,
+    "end_day": 4,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 10,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "F/V Swift Fathom"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 10,
+    "start_day": 6,
+    "end_day": 6,
+    "occupant": "Tug Western Lantern"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 10,
+    "start_day": 31,
+    "end_day": 31,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 10,
+    "start_day": 4,
+    "end_day": 5,
+    "occupant": "R/V Blue Anchor"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 10,
+    "start_day": 29,
+    "end_day": 31,
+    "occupant": "F/V Grey Gannet"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 10,
+    "start_day": 7,
+    "end_day": 8,
+    "occupant": "Tug Coral Reef"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 10,
+    "start_day": 2,
+    "end_day": 17,
+    "occupant": "R/V Blue Star"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 10,
+    "start_day": 23,
+    "end_day": 24,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 10,
+    "start_day": 5,
+    "end_day": 8,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 10,
+    "start_day": 14,
+    "end_day": 15,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 10,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 10,
+    "start_day": 20,
+    "end_day": 20,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 11,
+    "start_day": 17,
+    "end_day": 24,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 11,
+    "start_day": 2,
+    "end_day": 3,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 11,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "Utility work on pier face"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 11,
+    "start_day": 3,
+    "end_day": 4,
+    "occupant": "F/V Grey Gannet"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 11,
+    "start_day": 13,
+    "end_day": 16,
+    "occupant": "Tug Golden Sound"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2016,
+    "month": 11,
+    "start_day": 5,
+    "end_day": 8,
+    "occupant": "Tug Golden Sound"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 11,
+    "start_day": 1,
+    "end_day": 4,
+    "occupant": "S/V High Meridian"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 11,
+    "start_day": 6,
+    "end_day": 6,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2016,
+    "month": 11,
+    "start_day": 1,
+    "end_day": 13,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2016,
+    "month": 12,
+    "start_day": 20,
+    "end_day": 28,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 1,
+    "start_day": 3,
+    "end_day": 12,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 2,
+    "start_day": 18,
+    "end_day": 18,
+    "occupant": "M/V Clear Current"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 3,
+    "start_day": 19,
+    "end_day": 24,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 3,
+    "start_day": 18,
+    "end_day": 21,
+    "occupant": "Tug Golden Sound"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 4,
+    "start_day": 18,
+    "end_day": 22,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 4,
+    "start_day": 27,
+    "end_day": 28,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 4,
+    "start_day": 6,
+    "end_day": 8,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 4,
+    "start_day": 29,
+    "end_day": 30,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 4,
+    "start_day": 28,
+    "end_day": 29,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 4,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 4,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 4,
+    "start_day": 15,
+    "end_day": 30,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 5,
+    "start_day": 3,
+    "end_day": 11,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 5,
+    "start_day": 25,
+    "end_day": 25,
+    "occupant": "M/V GREY COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 5,
+    "start_day": 5,
+    "end_day": 11,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 5,
+    "start_day": 4,
+    "end_day": 6,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 5,
+    "start_day": 10,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 5,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 5,
+    "start_day": 17,
+    "end_day": 17,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 5,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 5,
+    "start_day": 25,
+    "end_day": 25,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 5,
+    "start_day": 3,
+    "end_day": 27,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 6,
+    "start_day": 2,
+    "end_day": 7,
+    "occupant": "Tug Salt Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 6,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 6,
+    "start_day": 2,
+    "end_day": 4,
+    "occupant": "S/V Quiet Beacon"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 6,
+    "start_day": 5,
+    "end_day": 11,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 6,
+    "start_day": 22,
+    "end_day": 30,
+    "occupant": "M/V Long Cove"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 8,
+    "end_day": 8,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 10,
+    "end_day": 10,
+    "occupant": "Tug Swift Ledge"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 23,
+    "end_day": 23,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 25,
+    "end_day": 25,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 10,
+    "end_day": 18,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 19,
+    "end_day": 30,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 1,
+    "end_day": 3,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 6,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "R/V Blue Star"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 7,
+    "start_day": 2,
+    "end_day": 8,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 7,
+    "start_day": 24,
+    "end_day": 25,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 7,
+    "start_day": 16,
+    "end_day": 16,
+    "occupant": "OSV Far Tide"
+  },
+  {
+    "berth": "North Pier Face",
+    "berth_length_ft": 75,
+    "year": 2017,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 1,
+    "occupant": "Bunkering"
+  },
+  {
+    "berth": "North Pier Face",
+    "berth_length_ft": 75,
+    "year": 2017,
+    "month": 7,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "Provisioning"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 7,
+    "start_day": 23,
+    "end_day": 25,
+    "occupant": "Tug Golden Sound"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 7,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "M/V Long Cove"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 7,
+    "start_day": 20,
+    "end_day": 20,
+    "occupant": "OS/V Silver Skua"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 29,
+    "end_day": 30,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 2,
+    "end_day": 2,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "M/V Blue Strand"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 7,
+    "end_day": 7,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 8,
+    "end_day": 8,
+    "occupant": "S/V Salt Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 11,
+    "end_day": 11,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 14,
+    "end_day": 14,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 15,
+    "end_day": 15,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 17,
+    "end_day": 17,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 18,
+    "end_day": 18,
+    "occupant": "S/V Northern Fathom"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 22,
+    "end_day": 24,
+    "occupant": "S/V SWIFT BEACON"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 9,
+    "end_day": 18,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 7,
+    "start_day": 26,
+    "end_day": 31,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 8,
+    "start_day": 11,
+    "end_day": 15,
+    "occupant": "F/V Western Osprey"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 8,
+    "start_day": 19,
+    "end_day": 23,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 8,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier Face",
+    "berth_length_ft": 75,
+    "year": 2017,
+    "month": 8,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "Bunker barge"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 8,
+    "start_day": 21,
+    "end_day": 26,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 8,
+    "start_day": 12,
+    "end_day": 17,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 8,
+    "start_day": 26,
+    "end_day": 27,
+    "occupant": "R/V Long Fathom"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 8,
+    "start_day": 21,
+    "end_day": 22,
+    "occupant": "S/V Golden Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 8,
+    "start_day": 7,
+    "end_day": 7,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 8,
+    "start_day": 9,
+    "end_day": 9,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 8,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 8,
+    "start_day": 28,
+    "end_day": 31,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 8,
+    "start_day": 4,
+    "end_day": 8,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 8,
+    "start_day": 13,
+    "end_day": 21,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 8,
+    "start_day": 22,
+    "end_day": 22,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 9,
+    "start_day": 22,
+    "end_day": 23,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 9,
+    "start_day": 1,
+    "end_day": 7,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 9,
+    "start_day": 14,
+    "end_day": 14,
+    "occupant": "ETA 1200"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 9,
+    "start_day": 18,
+    "end_day": 21,
+    "occupant": "Tug Golden Sound"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 9,
+    "start_day": 29,
+    "end_day": 29,
+    "occupant": "OSV Silver Gannet"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 9,
+    "start_day": 17,
+    "end_day": 18,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 9,
+    "start_day": 14,
+    "end_day": 15,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 9,
+    "start_day": 24,
+    "end_day": 25,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 9,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "ETA 1200"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 9,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "M/Y Swift Drift"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 9,
+    "start_day": 7,
+    "end_day": 7,
+    "occupant": "R/V Blue Star"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 9,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "Touch and go"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 9,
+    "start_day": 14,
+    "end_day": 14,
+    "occupant": "ETA 1200"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 9,
+    "start_day": 23,
+    "end_day": 23,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 10,
+    "start_day": 23,
+    "end_day": 27,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 10,
+    "start_day": 20,
+    "end_day": 21,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 10,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 10,
+    "start_day": 9,
+    "end_day": 11,
+    "occupant": "R/V Swift Current"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 10,
+    "start_day": 2,
+    "end_day": 2,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 10,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 10,
+    "start_day": 4,
+    "end_day": 5,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 10,
+    "start_day": 8,
+    "end_day": 8,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 10,
+    "start_day": 15,
+    "end_day": 15,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 10,
+    "start_day": 12,
+    "end_day": 14,
+    "occupant": "R/V High Horizon"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 10,
+    "start_day": 2,
+    "end_day": 2,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 10,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 11,
+    "start_day": 7,
+    "end_day": 8,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 11,
+    "start_day": 17,
+    "end_day": 28,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 11,
+    "start_day": 22,
+    "end_day": 24,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 11,
+    "start_day": 9,
+    "end_day": 9,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2017,
+    "month": 11,
+    "start_day": 11,
+    "end_day": 11,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2017,
+    "month": 12,
+    "start_day": 1,
+    "end_day": 31,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2017,
+    "month": 12,
+    "start_day": 5,
+    "end_day": 7,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 1,
+    "start_day": 1,
+    "end_day": 13,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 1,
+    "start_day": 18,
+    "end_day": 18,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 1,
+    "start_day": 13,
+    "end_day": 25,
+    "occupant": "OSV Far Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 2,
+    "start_day": 1,
+    "end_day": 28,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 2,
+    "start_day": 3,
+    "end_day": 5,
+    "occupant": "R/V Northern Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 2,
+    "start_day": 8,
+    "end_day": 8,
+    "occupant": "OSV Quiet Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 3,
+    "start_day": 1,
+    "end_day": 31,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 3,
+    "start_day": 2,
+    "end_day": 3,
+    "occupant": "R/V Northern Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 3,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 3,
+    "start_day": 23,
+    "end_day": 23,
+    "occupant": "Barge Silver Voyager"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 4,
+    "start_day": 27,
+    "end_day": 30,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 4,
+    "start_day": 1,
+    "end_day": 1,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 4,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 4,
+    "start_day": 19,
+    "end_day": 20,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 4,
+    "start_day": 6,
+    "end_day": 7,
+    "occupant": "F/V Salt Ketch"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 4,
+    "start_day": 26,
+    "end_day": 26,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 4,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 4,
+    "start_day": 27,
+    "end_day": 27,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 5,
+    "start_day": 9,
+    "end_day": 14,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 5,
+    "start_day": 19,
+    "end_day": 28,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier Face",
+    "berth_length_ft": 75,
+    "year": 2018,
+    "month": 5,
+    "start_day": 12,
+    "end_day": 13,
+    "occupant": "F/V Salt Ketch"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 5,
+    "start_day": 1,
+    "end_day": 31,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "Inner Channel",
+    "berth_length_ft": 55,
+    "year": 2018,
+    "month": 5,
+    "start_day": 24,
+    "end_day": 27,
+    "occupant": "R/V Long Horizon"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 5,
+    "start_day": 8,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 5,
+    "start_day": 15,
+    "end_day": 16,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 5,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 5,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 5,
+    "start_day": 9,
+    "end_day": 9,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 6,
+    "start_day": 28,
+    "end_day": 30,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 6,
+    "start_day": 2,
+    "end_day": 2,
+    "occupant": "Bunker barge"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 6,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 6,
+    "start_day": 27,
+    "end_day": 29,
+    "occupant": "F/V Coral Marlin"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 6,
+    "start_day": 6,
+    "end_day": 6,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 6,
+    "start_day": 18,
+    "end_day": 18,
+    "occupant": "F/V Coral Marlin"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 6,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "Departure 0800"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 6,
+    "start_day": 10,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 6,
+    "start_day": 25,
+    "end_day": 25,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 6,
+    "start_day": 19,
+    "end_day": 26,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 6,
+    "start_day": 6,
+    "end_day": 6,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 7,
+    "start_day": 28,
+    "end_day": 30,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 1,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 7,
+    "start_day": 7,
+    "end_day": 7,
+    "occupant": "OSV Green Cove"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 7,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "M/V Deep Beacon"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 7,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "M/V NORTHERN HARBOR"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 7,
+    "start_day": 31,
+    "end_day": 31,
+    "occupant": "OSV Green Current"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 7,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "R/V Amber Anchor"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 1,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 8,
+    "end_day": 8,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 10,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 15,
+    "end_day": 15,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 20,
+    "end_day": 20,
+    "occupant": "S/V Swift Marlin"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 22,
+    "end_day": 22,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 29,
+    "end_day": 29,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 30,
+    "end_day": 30,
+    "occupant": "M/V Western Horizon"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 25,
+    "end_day": 31,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 7,
+    "start_day": 9,
+    "end_day": 18,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 8,
+    "start_day": 2,
+    "end_day": 5,
+    "occupant": "R/V High Horizon"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 8,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 8,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 8,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 8,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 8,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 8,
+    "start_day": 9,
+    "end_day": 9,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 8,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 8,
+    "start_day": 12,
+    "end_day": 17,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 8,
+    "start_day": 1,
+    "end_day": 5,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 9,
+    "start_day": 4,
+    "end_day": 14,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 9,
+    "start_day": 19,
+    "end_day": 25,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 9,
+    "start_day": 19,
+    "end_day": 20,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 9,
+    "start_day": 5,
+    "end_day": 5,
+    "occupant": "M/Y Silver Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 9,
+    "start_day": 9,
+    "end_day": 9,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 9,
+    "start_day": 16,
+    "end_day": 17,
+    "occupant": "M/Y Silver Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 10,
+    "start_day": 26,
+    "end_day": 31,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 10,
+    "start_day": 18,
+    "end_day": 21,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2018,
+    "month": 10,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "R/V Quiet Osprey"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2018,
+    "month": 10,
+    "start_day": 2,
+    "end_day": 11,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2018,
+    "month": 12,
+    "start_day": 1,
+    "end_day": 31,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 1,
+    "start_day": 1,
+    "end_day": 13,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 1,
+    "start_day": 18,
+    "end_day": 18,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 1,
+    "start_day": 17,
+    "end_day": 17,
+    "occupant": "OSV Far Tide"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 2,
+    "start_day": 1,
+    "end_day": 28,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 2,
+    "start_day": 7,
+    "end_day": 9,
+    "occupant": "R/V Northern Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 2,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "OSV Quiet Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 3,
+    "start_day": 1,
+    "end_day": 31,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 3,
+    "start_day": 6,
+    "end_day": 7,
+    "occupant": "R/V Northern Star"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 3,
+    "start_day": 23,
+    "end_day": 23,
+    "occupant": "F/V SALT FATHOM"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 3,
+    "start_day": 27,
+    "end_day": 27,
+    "occupant": "Barge Silver Voyager"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 4,
+    "start_day": 27,
+    "end_day": 30,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 4,
+    "start_day": 1,
+    "end_day": 1,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 4,
+    "start_day": 13,
+    "end_day": 13,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 4,
+    "start_day": 12,
+    "end_day": 13,
+    "occupant": "F/V Salt Ketch"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 4,
+    "start_day": 25,
+    "end_day": 26,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 4,
+    "start_day": 14,
+    "end_day": 14,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 4,
+    "start_day": 28,
+    "end_day": 28,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 5,
+    "start_day": 21,
+    "end_day": 30,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 5,
+    "start_day": 11,
+    "end_day": 16,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 5,
+    "start_day": 8,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 5,
+    "start_day": 15,
+    "end_day": 16,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 5,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 5,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 5,
+    "start_day": 11,
+    "end_day": 29,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 6,
+    "start_day": 4,
+    "end_day": 10,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 6,
+    "start_day": 16,
+    "end_day": 19,
+    "occupant": "F/V Coral Marlin"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 6,
+    "start_day": 4,
+    "end_day": 4,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 6,
+    "start_day": 19,
+    "end_day": 19,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 6,
+    "start_day": 19,
+    "end_day": 26,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 6,
+    "start_day": 2,
+    "end_day": 12,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 7,
+    "start_day": 26,
+    "end_day": 28,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 7,
+    "start_day": 3,
+    "end_day": 3,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 7,
+    "start_day": 10,
+    "end_day": 10,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 7,
+    "start_day": 12,
+    "end_day": 12,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 7,
+    "start_day": 15,
+    "end_day": 15,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 7,
+    "start_day": 17,
+    "end_day": 17,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 7,
+    "start_day": 24,
+    "end_day": 24,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float West",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 7,
+    "start_day": 31,
+    "end_day": 31,
+    "occupant": "R/V Long Ketch"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 7,
+    "start_day": 1,
+    "end_day": 2,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 7,
+    "start_day": 25,
+    "end_day": 31,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 7,
+    "start_day": 9,
+    "end_day": 18,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 8,
+    "start_day": 20,
+    "end_day": 22,
+    "occupant": "Tug BLUE FATHOM"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 8,
+    "start_day": 5,
+    "end_day": 9,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 8,
+    "start_day": 16,
+    "end_day": 21,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 9,
+    "start_day": 3,
+    "end_day": 13,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 9,
+    "start_day": 18,
+    "end_day": 24,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 10,
+    "start_day": 17,
+    "end_day": 20,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "North Pier West",
+    "berth_length_ft": 410,
+    "year": 2019,
+    "month": 10,
+    "start_day": 25,
+    "end_day": 30,
+    "occupant": "R/V GOLDEN COMPASS"
+  },
+  {
+    "berth": "South Float East",
+    "berth_length_ft": 90,
+    "year": 2019,
+    "month": 10,
+    "start_day": 1,
+    "end_day": 10,
+    "occupant": "OSV AMBER REEF"
+  },
+  {
+    "berth": "North Pier East",
+    "berth_length_ft": 240,
+    "year": 2019,
+    "month": 12,
+    "start_day": 1,
+    "end_day": 31,
+    "occupant": "R/V GOLDEN COMPASS"
+  }
+]
